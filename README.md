@@ -50,5 +50,20 @@ Implement  onActivityResult to get the kipande object.
         }
     }
     
+    
+   
+    
 ```
+
+Make sure to add camera perissions to your manifest
+
+```xml
+ <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+```
+
+
+
+## H2 CODE WILL BE MIGRATED TO KOTLIN SOON 
+
 
