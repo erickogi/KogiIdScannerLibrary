@@ -17,7 +17,7 @@ Then add the dependancy
 ```java
    
        implementation 'com.github.erickogi:Idscanner:v1.0.0'
-```java
+```
 
 
 In the activity you plan to use the idscanner, start the scannining activity 
