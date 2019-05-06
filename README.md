@@ -64,6 +64,6 @@ Make sure to add camera perissions to your manifest
 
 
 
-## H2 CODE WILL BE MIGRATED TO KOTLIN SOON 
+##  CODE WILL BE MIGRATED TO KOTLIN SOON 
 
 
